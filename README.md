@@ -3,7 +3,7 @@
 ![.](.github/image.png) 
 
 
-_RESDME.MD IN PROGRESS_
+#_RESDME.MD IN PROGRESS_
 
 
 ## Available Scripts
